@@ -29,3 +29,24 @@ Why it worked: [تحلیلِ فنی: چرا سرور اجازه داد من به
 - [ ] XXE Injection - AllTopic - 50%
 - [ ] XSS Basics - AllTopic - 40%
 - [ ] GraphQL API Vulnerabilities - AllTopic - 50%
+
+# Deferred Web Security Backlog
+
+## After Docker + Kubernetes + Ingress
+
+1. HTTP Request Smuggling - AllTopic - 70%
+2. HTTP Host Header Attacks - AllTopic - 60%
+3. Web Cache Poisoning - AllTopic - 60%
+4. Web Cache Deception - AllTopic - 50%
+5. Race Conditions - AllTopic - 60%
+6. Server-Side Template Injection - AllTopic - 70%
+7. NoSQL Injection - AllTopic - 50%
+8. Insecure Deserialization - AllTopic - 50%
+
+## Only if project/job needs it
+
+9. WebSockets - AllTopic - 40%
+10. Prototype Pollution - AllTopic - 40%
+11. DOM-Based Vulnerabilities - AllTopic - 40%
+12. Clickjacking - AllTopic - 30%
+13. Web LLM Attacks - AllTopic - 30%
