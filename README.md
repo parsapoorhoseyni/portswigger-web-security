@@ -13,11 +13,11 @@ Why it worked: [تحلیلِ فنی: چرا سرور اجازه داد من به
 # PortSwigger Priority Order for Parsa
 
 ## Phase A — Finish current foundation
-- [ ] Server-side vulnerabilities
+- [x] Server-side vulnerabilities
 
 ## Phase B — Cloud-relevant web security
-- [ ] Server-side request forgery (SSRF)
-- [ ] Authentication vulnerabilities
+- [x] Server-side request forgery (SSRF)
+- [x] Authentication vulnerabilities
 - [ ] Path traversal
 - [ ] File upload vulnerabilities
 - [ ] API testing
