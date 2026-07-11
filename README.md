@@ -14,7 +14,7 @@ Why it worked: [تحلیلِ فنی: چرا سرور اجازه داد من به
 - [x] Server-side vulnerabilities - LearningPath - 100%
 - [x] SSRF - LearningPath - 100%
 - [x] Authentication - LearningPath - 100%
-- [ ] Access Control - AllTopic - 100%
+- [x] Access Control - AllTopic - 100%
 - [ ] Path Traversal - AllTopic - 100%
 - [ ] File Upload Vulnerabilities - AllTopic - 100%
 - [ ] API Testing - LearningPath - 90%
