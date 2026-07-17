@@ -16,7 +16,7 @@ Why it worked: [تحلیلِ فنی: چرا سرور اجازه داد من به
 - [x] Authentication - LearningPath - 100%
 - [x] Access Control - AllTopic - 100%
 - [x] Path Traversal - AllTopic - 100%
-- [ ] File Upload Vulnerabilities - AllTopic - 100%
+- [x] File Upload Vulnerabilities - AllTopic - 100%
 - [ ] API Testing - LearningPath - 90%
 - [ ] SQL Injection - AllTopic - 70%
 - [ ] Command Injection - AllTopic - 80%
@@ -42,11 +42,3 @@ Why it worked: [تحلیلِ فنی: چرا سرور اجازه داد من به
 6. Server-Side Template Injection - AllTopic - 70%
 7. NoSQL Injection - AllTopic - 50%
 8. Insecure Deserialization - AllTopic - 50%
-
-## Only if project/job needs it
-
-9. WebSockets - AllTopic - 40%
-10. Prototype Pollution - AllTopic - 40%
-11. DOM-Based Vulnerabilities - AllTopic - 40%
-12. Clickjacking - AllTopic - 30%
-13. Web LLM Attacks - AllTopic - 30%
