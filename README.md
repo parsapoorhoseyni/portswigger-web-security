@@ -17,7 +17,7 @@ Why it worked: [تحلیلِ فنی: چرا سرور اجازه داد من به
 - [x] Access Control - AllTopic - 100%
 - [x] Path Traversal - AllTopic - 100%
 - [x] File Upload Vulnerabilities - AllTopic - 100%
-- [ ] API Testing - LearningPath - 90%
+- [x] API Testing - LearningPath - 90%
 - [ ] SQL Injection - AllTopic - 70%
 - [ ] Command Injection - AllTopic - 80%
 - [ ] Information Disclosure - AllTopic - 80%
